@@ -3,6 +3,7 @@
 Для запуска скрипта необходимо создать json файл следующего состава:
 
 {
+    
     "username":"xxxxxxxxxxxxxxx",
     
     "password":"xxxxxxxx",
